@@ -1,5 +1,7 @@
 package hello.model;
 
+import redis.clients.jedis.Jedis;
+
 /**
  * Created by qzhao on 2018/2/13.
  */
